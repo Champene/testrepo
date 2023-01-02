@@ -1,2 +1,2 @@
 # testrepo
-This is document. 
+This is document, created for guidance. 
